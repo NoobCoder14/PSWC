@@ -1,0 +1,1 @@
+void substring(char *, char *, int, int);
